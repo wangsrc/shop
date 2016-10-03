@@ -16,10 +16,10 @@ $(function(){
         $(".active #xiaomi_xiaomi").hide();
     })
     $("#ls").click(function(){
-        $('.head_hot_goods_wrap .head_hot_goods_content ul').animate({left:'-1226px'},2000);
+        $('.head_hot_goods_wrap .head_hot_goods_content ul').animate({left:'-1226px'},300);
     })
     $("#rs").click(function(){
-        $('.head_hot_goods_wrap .head_hot_goods_content ul').animate({left:'0'},2000);
+        $('.head_hot_goods_wrap .head_hot_goods_content ul').animate({left:'0'},300);
     })
 });
 $(function(){
